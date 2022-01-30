@@ -2,8 +2,6 @@
 #define HEADER_H
 #include<iostream>
 #include<string>
-#include<algorithm>
-#include<map>
 #include<math.h>
 #include <random>
 void Morse_info();
